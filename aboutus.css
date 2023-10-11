@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin:0;
+    text-overflow: ellipsis;
+    
+    
+}
+.about{
+    font-family: inherit;
+    font-size: 20px;
+    }
+.accordion{
+    color:maroon;
+    font-size: 25px;
+}
+.awards{
+    font-style: oblique;
+    font-weight: bold;
+    text-align: center;
+    color: darkslategray;
+    font-size: 40px;
+
+
+}
+.ACHIVEMENTS{
+    width: 300px;
+    border-radius:5% ;
+    text-align: center;
+}
+.headabout{
+    background-image: linear-gradient(skyblue,pink);
+    font-family: serif;
+    width: 20%;
+    text-align: center;
+    color: crimson;
+    border: 10px solid wheat;
+    border-radius: 10%;
+    
+}
+.niha{
+    text-align: center;
+    font-family: sans-serif;
+}
+

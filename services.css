@@ -1,0 +1,163 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin:0;
+    text-overflow: ellipsis;
+   
+    
+}
+#s1{
+    background-image: url(./images/si1.jpeg);
+    height:550px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5%;
+    width:400px;
+    opacity:0.9;
+    
+}
+#ser{
+    font-size:50px;
+}
+#ser1{
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 3%;
+}
+
+#s2{
+    background-image: url(./images/si2.jpg);
+    height:550px;
+    background-size: cover;
+    background-position: center;
+   border-radius: 5%;
+   width:400px;
+   opacity:0.9;
+}
+#s3{
+    background-image: url(./images/si3.jpeg);
+    height:550px;
+    background-size: cover;
+    background-position: center;
+   border-radius: 5%;
+   width:400px;
+   opacity: 0.9;
+}
+.overlay-h{
+    color:gold;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 80%;
+}
+.overlay-text{
+    font-weight: bold;
+    color:white;
+    font-size: 20px;
+}
+#s4{
+    background-image: url(./images/si4.jpeg);
+    height:550px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5%;
+    width:400px;
+    opacity:0.9;
+    
+}
+#s5{
+    background-image: url(./images/si5.jpeg);
+    height:550px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5%;
+    width:400px;
+    opacity:0.9;
+    
+}
+#s6{
+    background-image: url(./images/si6.jpeg);
+    height:550px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5%;
+    width:400px;
+    opacity:0.9;
+    
+}
+#s7{
+    background-image: url(./images/si7.avif);
+    height:550px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5%;
+    width:400px;
+    opacity:0.9;
+    
+}
+#s8{
+    background-image: url(./images/si8.webp);
+    height:550px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5%;
+    width:400px;
+    opacity:0.9;
+    
+}
+#s9{
+    background-image: url(./images/si9.avif);
+    height:550px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5%;
+    width:400px;
+    opacity:0.9;
+    
+}
+#s10{
+    background-image: url(./images/si10.jpg);
+    height:550px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5%;
+    width:400px;
+    opacity:0.9;
+    
+}
+#s11{
+    background-image: url(./images/si11.webp);
+    height:550px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5%;
+    width:400px;
+    opacity:0.9;
+    
+}
+#s12{
+    background-image: url(./images/si12.jpg);
+    height:550px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 5%;
+    width:400px;
+    opacity:0.9;
+    
+}
+.caro1{
+    height:500px;
+    background-size: cover;
+    background-position: center;
+    width:100%;
+}
+caro{
+    height:500px;
+}
+.caro2{
+    margin-top: 150px;
+    margin-left: 0px;
+    font-size: 50px;
+}
+.caro3{
+    margin-left: 50px;
+    font-size: 20px;
+}
